@@ -17,7 +17,7 @@ After obtaining your API key:
 2. Import each shortcut into the 'Shortcuts' app.
 3. Enter your OpenAI API Key into the `GPT API Connector` shortcut's text field.
 4. For a visual guide on how to assign keyboard shortcuts to these macOS shortcuts, see the image below:
-![Assigning Keyboard Shortcuts](/Screenshots/assigning_keyboard_shortcut.png)
+![Assigning Keyboard Shortcuts](/Screenshots/assigning keyboard shortcut.png)
 
 ## Shortcuts Overview
 
