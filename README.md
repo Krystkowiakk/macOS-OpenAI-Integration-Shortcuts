@@ -1,7 +1,7 @@
 # macOS-OpenAI-Integration-Shortcuts
 
-###macOS shortcuts using OpenAI's GPT for text tasks and translation to boost daily productivity. 
-###May be used as a base for your own everyday shortcuts and a great start to integrate your macOS with LLMs.
+### macOS shortcuts using OpenAI's GPT for text tasks and translation to boost daily productivity. 
+### May be used as a base for your own everyday shortcuts and a great start to integrate your macOS with LLMs.
 
 Embrace the future of productivity with macOS shortcuts powered by OpenAI's GPT. Seamlessly integrate advanced text manipulation and translation capabilities into your daily workflow. Perfect as a foundation for crafting your personalized suite of shortcuts, these tools are your gateway to a more efficient, AI-enhanced macOS experience.
 
